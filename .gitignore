@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+data/
+*.zip
+*.jsonl
+
+[[]PUB[]] India_runs_data_and_ai_challenge/
+
+.DS_Store
+.env

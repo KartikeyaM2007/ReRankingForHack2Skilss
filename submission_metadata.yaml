@@ -1,0 +1,14 @@
+team_name: "EDIT_ME"
+primary_contact_name: "Kartikeya Krishna Mishra"
+primary_contact_email: "EDIT_ME"
+primary_contact_phone: "EDIT_ME"
+github_repository_url: "https://github.com/EDIT_ME/redrob-winning-ranker"
+sandbox_demo_link: "EDIT_ME"
+ai_tools_declared:
+  - ChatGPT
+compute_environment_summary: "CPU-only Python 3.11/3.13 environment, no GPU, no network during ranking; full 100K ranking tested under 5 minutes."
+team_members:
+  - name: "Kartikeya Krishna Mishra"
+    email: "EDIT_ME"
+methodology_summary: >-
+  A two-stage hybrid recruiter-style ranker. Stage 1 performs an ultra-fast high-recall scan over all 100K profiles using title, seniority, core retrieval/ranking skills, career trajectory, location, availability, and cheap honeypot checks. Stage 2 deeply scores the shortlist using career-text evidence for shipped production retrieval, semantic/vector search, ranking evaluation, recommendation systems, product-company work, and LLM/RAG depth. Final ordering uses deterministic teacher-rubric scoring plus reciprocal-rank fusion across rule, semantic, evidence, career, and behavioral views. The system aggressively penalizes keyword stuffing, impossible skill claims, pure research, services-only backgrounds, wrong-domain CV/speech profiles, and unavailable candidates. Reasoning is generated only from profile-grounded facts.
