@@ -195,13 +195,13 @@ streamlit run app.py
 
 The demo accepts a small JSONL sample and produces a ranked CSV. It is meant for the challenge sandbox requirement, not for running the full 100K pool in a browser.
 
-### App Preview
+### App Preview (Full 464MB Dataset Processing)
 
-![Streamlit Sandbox Demo Initial State](C:/Users/USER/.gemini/antigravity-ide/brain/cdc07baf-1796-4b8e-baaa-faa189a4927e/initial_state_1780911322410.png)
+![Streamlit Sandbox Results showing full 100K processing](./assets/final_ranked_results_1780912483114.png)
 
 ### Working Walkthrough
 
-![Streamlit Sandbox Demo Recording](C:/Users/USER/.gemini/antigravity-ide/brain/cdc07baf-1796-4b8e-baaa-faa189a4927e/streamlit_demo_1780911298862.webp)
+![Streamlit Sandbox Demo Recording](./assets/streamlit_large_file_demo_1780912302062.webp)
 
 ## Methodology summary for portal
 
