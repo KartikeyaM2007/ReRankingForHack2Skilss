@@ -199,9 +199,6 @@ The demo accepts a small JSONL sample and produces a ranked CSV. It is meant for
 
 ![Streamlit Sandbox Results showing full 100K processing](./assets/final_ranked_results_1780912483114.png)
 
-### Working Walkthrough
-
-![Streamlit Sandbox Demo Recording](./assets/streamlit_large_file_demo_1780912302062.webp)
 
 ## Methodology summary for portal
 
